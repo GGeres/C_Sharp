@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex01 - Olá Mundo", "ex01 - Olá Mundo\ex01 - Olá Mundo.csproj", "{441B3F2A-137F-4B38-AD93-8462E7498451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02-Criando_Variáveis", "ex02-Criando_Variáveis\ex02-Criando_Variáveis.csproj", "{D33B06C8-1136-46E3-8579-8D25632CEEE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441B3F2A-137F-4B38-AD93-8462E7498451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441B3F2A-137F-4B38-AD93-8462E7498451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441B3F2A-137F-4B38-AD93-8462E7498451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441B3F2A-137F-4B38-AD93-8462E7498451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33B06C8-1136-46E3-8579-8D25632CEEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33B06C8-1136-46E3-8579-8D25632CEEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33B06C8-1136-46E3-8579-8D25632CEEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33B06C8-1136-46E3-8579-8D25632CEEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D7C8C6-E86C-4251-BDF9-0511053A305E}
+	EndGlobalSection
+EndGlobal
