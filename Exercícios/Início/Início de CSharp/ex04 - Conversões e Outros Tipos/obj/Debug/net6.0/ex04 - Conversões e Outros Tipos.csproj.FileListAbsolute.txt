@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\bin\Debug\net6.0\ex04 - Conversões e Outros Tipos.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\bin\Debug\net6.0\ex04 - Conversões e Outros Tipos.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\bin\Debug\net6.0\ex04 - Conversões e Outros Tipos.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\bin\Debug\net6.0\ex04 - Conversões e Outros Tipos.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\bin\Debug\net6.0\ex04 - Conversões e Outros Tipos.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\obj\Debug\net6.0\ex04 - Conversões e Outros Tipos.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\obj\Debug\net6.0\ex04 - Conversões e Outros Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\obj\Debug\net6.0\ex04 - Conversões e Outros Tipos.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\obj\Debug\net6.0\ex04 - Conversões e Outros Tipos.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\obj\Debug\net6.0\ex04 - Conversões e Outros Tipos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\obj\Debug\net6.0\ex04 - Conversões e Outros Tipos.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\obj\Debug\net6.0\refint\ex04 - Conversões e Outros Tipos.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\obj\Debug\net6.0\ex04 - Conversões e Outros Tipos.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\obj\Debug\net6.0\ex04 - Conversões e Outros Tipos.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex04 - Conversões e Outros Tipos\obj\Debug\net6.0\ref\ex04 - Conversões e Outros Tipos.dll

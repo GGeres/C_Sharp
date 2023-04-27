@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\bin\Debug\net6.0\ex07 - Condicionais.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\bin\Debug\net6.0\ex07 - Condicionais.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\bin\Debug\net6.0\ex07 - Condicionais.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\bin\Debug\net6.0\ex07 - Condicionais.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\bin\Debug\net6.0\ex07 - Condicionais.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\obj\Debug\net6.0\ex07 - Condicionais.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\obj\Debug\net6.0\ex07 - Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\obj\Debug\net6.0\ex07 - Condicionais.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\obj\Debug\net6.0\ex07 - Condicionais.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\obj\Debug\net6.0\ex07 - Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\obj\Debug\net6.0\ex07 - Condicionais.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\obj\Debug\net6.0\refint\ex07 - Condicionais.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\obj\Debug\net6.0\ex07 - Condicionais.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\obj\Debug\net6.0\ex07 - Condicionais.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex07 - Condicionais\obj\Debug\net6.0\ref\ex07 - Condicionais.dll

@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\bin\Debug\net6.0\ex10 - Laços de Repetição.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\bin\Debug\net6.0\ex10 - Laços de Repetição.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\bin\Debug\net6.0\ex10 - Laços de Repetição.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\bin\Debug\net6.0\ex10 - Laços de Repetição.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\bin\Debug\net6.0\ex10 - Laços de Repetição.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\obj\Debug\net6.0\ex10 - Laços de Repetição.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\obj\Debug\net6.0\ex10 - Laços de Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\obj\Debug\net6.0\ex10 - Laços de Repetição.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\obj\Debug\net6.0\ex10 - Laços de Repetição.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\obj\Debug\net6.0\ex10 - Laços de Repetição.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\obj\Debug\net6.0\ex10 - Laços de Repetição.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\obj\Debug\net6.0\refint\ex10 - Laços de Repetição.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\obj\Debug\net6.0\ex10 - Laços de Repetição.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\obj\Debug\net6.0\ex10 - Laços de Repetição.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex10 - Laços de Repetição\obj\Debug\net6.0\ref\ex10 - Laços de Repetição.dll

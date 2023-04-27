@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\ex01\\Início de CSharp\\ex02-Criando_Variáveis\\ex02-Criando_Variáveis.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\Início\\Início de CSharp\\ex02-Criando_Variáveis\\ex02-Criando_Variáveis.csproj",
       "projectName": "ex02-Criando_Variáveis",
-      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\ex01\\Início de CSharp\\ex02-Criando_Variáveis\\ex02-Criando_Variáveis.csproj",
+      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\Início\\Início de CSharp\\ex02-Criando_Variáveis\\ex02-Criando_Variáveis.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\ex01\\Início de CSharp\\ex02-Criando_Variáveis\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\Início\\Início de CSharp\\ex02-Criando_Variáveis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",

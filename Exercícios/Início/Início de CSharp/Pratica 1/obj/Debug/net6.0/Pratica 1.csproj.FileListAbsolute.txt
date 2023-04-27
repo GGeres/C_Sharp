@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\bin\Debug\net6.0\Pratica 1.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\bin\Debug\net6.0\Pratica 1.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\bin\Debug\net6.0\Pratica 1.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\bin\Debug\net6.0\Pratica 1.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\bin\Debug\net6.0\Pratica 1.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\obj\Debug\net6.0\Pratica 1.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\obj\Debug\net6.0\Pratica 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\obj\Debug\net6.0\Pratica 1.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\obj\Debug\net6.0\Pratica 1.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\obj\Debug\net6.0\Pratica 1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\obj\Debug\net6.0\Pratica 1.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\obj\Debug\net6.0\refint\Pratica 1.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\obj\Debug\net6.0\Pratica 1.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\obj\Debug\net6.0\Pratica 1.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\Pratica 1\obj\Debug\net6.0\ref\Pratica 1.dll

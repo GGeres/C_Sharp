@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\obj\Debug\net6.0\ex02-Criando_Variáveis.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\obj\Debug\net6.0\ex02-Criando_Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\obj\Debug\net6.0\ex02-Criando_Variáveis.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\obj\Debug\net6.0\ex02-Criando_Variáveis.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\obj\Debug\net6.0\ex02-Criando_Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\bin\Debug\net6.0\ex02-Criando_Variáveis.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\bin\Debug\net6.0\ex02-Criando_Variáveis.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\bin\Debug\net6.0\ex02-Criando_Variáveis.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\bin\Debug\net6.0\ex02-Criando_Variáveis.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\bin\Debug\net6.0\ex02-Criando_Variáveis.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\obj\Debug\net6.0\ex02-Criando_Variáveis.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\obj\Debug\net6.0\refint\ex02-Criando_Variáveis.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\obj\Debug\net6.0\ex02-Criando_Variáveis.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\obj\Debug\net6.0\ex02-Criando_Variáveis.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex02-Criando_Variáveis\obj\Debug\net6.0\ref\ex02-Criando_Variáveis.dll

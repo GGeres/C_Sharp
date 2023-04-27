@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\bin\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\bin\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\bin\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\bin\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\bin\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\obj\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\obj\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\obj\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\obj\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\obj\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\obj\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\obj\Debug\net6.0\refint\ex03 - Criando Variáveis Ponto Flutuante.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\obj\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\obj\Debug\net6.0\ex03 - Criando Variáveis Ponto Flutuante.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex03 - Criando Variáveis Ponto Flutuante\obj\Debug\net6.0\ref\ex03 - Criando Variáveis Ponto Flutuante.dll

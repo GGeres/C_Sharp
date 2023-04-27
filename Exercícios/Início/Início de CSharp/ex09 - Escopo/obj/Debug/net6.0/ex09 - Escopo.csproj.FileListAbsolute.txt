@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\bin\Debug\net6.0\ex09 - Escopo.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\bin\Debug\net6.0\ex09 - Escopo.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\bin\Debug\net6.0\ex09 - Escopo.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\bin\Debug\net6.0\ex09 - Escopo.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\bin\Debug\net6.0\ex09 - Escopo.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\obj\Debug\net6.0\ex09 - Escopo.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\obj\Debug\net6.0\ex09 - Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\obj\Debug\net6.0\ex09 - Escopo.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\obj\Debug\net6.0\ex09 - Escopo.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\obj\Debug\net6.0\ex09 - Escopo.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\obj\Debug\net6.0\ex09 - Escopo.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\obj\Debug\net6.0\refint\ex09 - Escopo.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\obj\Debug\net6.0\ex09 - Escopo.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\obj\Debug\net6.0\ex09 - Escopo.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex09 - Escopo\obj\Debug\net6.0\ref\ex09 - Escopo.dll

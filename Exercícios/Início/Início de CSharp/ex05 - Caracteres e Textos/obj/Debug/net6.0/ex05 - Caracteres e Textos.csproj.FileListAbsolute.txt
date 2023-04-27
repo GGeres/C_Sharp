@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\bin\Debug\net6.0\ex05 - Caracteres e Textos.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\bin\Debug\net6.0\ex05 - Caracteres e Textos.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\bin\Debug\net6.0\ex05 - Caracteres e Textos.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\bin\Debug\net6.0\ex05 - Caracteres e Textos.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\bin\Debug\net6.0\ex05 - Caracteres e Textos.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\obj\Debug\net6.0\ex05 - Caracteres e Textos.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\obj\Debug\net6.0\ex05 - Caracteres e Textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\obj\Debug\net6.0\ex05 - Caracteres e Textos.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\obj\Debug\net6.0\ex05 - Caracteres e Textos.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\obj\Debug\net6.0\ex05 - Caracteres e Textos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\obj\Debug\net6.0\ex05 - Caracteres e Textos.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\obj\Debug\net6.0\refint\ex05 - Caracteres e Textos.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\obj\Debug\net6.0\ex05 - Caracteres e Textos.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\obj\Debug\net6.0\ex05 - Caracteres e Textos.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex05 - Caracteres e Textos\obj\Debug\net6.0\ref\ex05 - Caracteres e Textos.dll

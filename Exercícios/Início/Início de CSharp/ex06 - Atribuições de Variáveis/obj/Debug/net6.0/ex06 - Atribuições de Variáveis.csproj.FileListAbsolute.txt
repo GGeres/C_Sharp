@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\bin\Debug\net6.0\ex06 - Atribuições de Variáveis.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\bin\Debug\net6.0\ex06 - Atribuições de Variáveis.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\bin\Debug\net6.0\ex06 - Atribuições de Variáveis.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\bin\Debug\net6.0\ex06 - Atribuições de Variáveis.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\bin\Debug\net6.0\ex06 - Atribuições de Variáveis.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\obj\Debug\net6.0\ex06 - Atribuições de Variáveis.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\obj\Debug\net6.0\ex06 - Atribuições de Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\obj\Debug\net6.0\ex06 - Atribuições de Variáveis.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\obj\Debug\net6.0\ex06 - Atribuições de Variáveis.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\obj\Debug\net6.0\ex06 - Atribuições de Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\obj\Debug\net6.0\ex06 - Atribuições de Variáveis.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\obj\Debug\net6.0\refint\ex06 - Atribuições de Variáveis.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\obj\Debug\net6.0\ex06 - Atribuições de Variáveis.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\obj\Debug\net6.0\ex06 - Atribuições de Variáveis.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\Início\Início de CSharp\ex06 - Atribuições de Variáveis\obj\Debug\net6.0\ref\ex06 - Atribuições de Variáveis.dll

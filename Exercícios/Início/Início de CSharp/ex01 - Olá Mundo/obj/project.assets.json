@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\ex01\\Início de CSharp\\ex01 - Olá Mundo\\ex01 - Olá Mundo.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\Início\\Início de CSharp\\ex01 - Olá Mundo\\ex01 - Olá Mundo.csproj",
       "projectName": "ex01 - Olá Mundo",
-      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\ex01\\Início de CSharp\\ex01 - Olá Mundo\\ex01 - Olá Mundo.csproj",
+      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\Início\\Início de CSharp\\ex01 - Olá Mundo\\ex01 - Olá Mundo.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\ex01\\Início de CSharp\\ex01 - Olá Mundo\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\ESTUDOS\\C_Sharp\\Exercícios\\Início\\Início de CSharp\\ex01 - Olá Mundo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
