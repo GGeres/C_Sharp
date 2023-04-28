@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank", "ByteBank\ByteBank.csproj", "{62E1FF26-77D1-4B54-8BFD-3B4A72C2F1E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "ByteBank\ByteBank.csproj", "{62E1FF26-77D1-4B54-8BFD-3B4A72C2F1E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prática 1", "Prática 1\Prática 1.csproj", "{9B815597-307C-48FF-BDAC-62C577558E79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prática 1", "Prática 1\Prática 1.csproj", "{9B815597-307C-48FF-BDAC-62C577558E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratica 2", "Pratica 2\Pratica 2.csproj", "{F2957977-5150-4A85-A93D-EB39B9798073}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9B815597-307C-48FF-BDAC-62C577558E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B815597-307C-48FF-BDAC-62C577558E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B815597-307C-48FF-BDAC-62C577558E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2957977-5150-4A85-A93D-EB39B9798073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2957977-5150-4A85-A93D-EB39B9798073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2957977-5150-4A85-A93D-EB39B9798073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2957977-5150-4A85-A93D-EB39B9798073}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

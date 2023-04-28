@@ -29,6 +29,20 @@ namespace ByteBank
                 return false;
             }
         }
+
+        public bool Transferir(double valor, ContaCorrente destino)
+        {
+            if(this.saldo < valor)
+            {
+                return false;
+            }
+            else
+            {
+                this.Sacar(valor);
+                destino.Depositar(valor);
+                return true;
+            }
+        }
   
     }
 }
