@@ -74,12 +74,25 @@ using ByteBank.Titular;
 //Console.WriteLine("Saldo = " + conta.saldo);
 //Console.WriteLine("Nº da Agência = " + conta.numAgencia);
 
-ContaCorrente conta3 = new ContaCorrente();
-conta3.NumAgencia = 18;
-conta3.Conta = "1011-H";
-conta3.SetSaldo(200);
-Console.WriteLine(conta3.GetSaldo());
-Console.WriteLine(conta3.NumAgencia);
-Console.WriteLine(conta3.Conta);
+//ContaCorrente conta3 = new ContaCorrente();
+//conta3.NumAgencia = 18;
+//conta3.Conta = "1011-H";
+//conta3.SetSaldo(200);
+//Console.WriteLine(conta3.GetSaldo());
+//Console.WriteLine(conta3.NumAgencia);
+//Console.WriteLine(conta3.Conta);
 
+//ContaCorrente conta4 = new ContaCorrente(18,"1010-X");
+//conta4.SetSaldo(500);
+//conta4.Titular = new Cliente();
+//Console.WriteLine(conta4.GetSaldo());
+//Console.WriteLine(conta4.NumAgencia);
 
+ContaCorrente conta5 = new ContaCorrente(283, "1302-X");
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+
+ContaCorrente conta6 = new ContaCorrente(284, "2310-Z");
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+
+ContaCorrente conta7 = new ContaCorrente(285, "2811-E");
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);

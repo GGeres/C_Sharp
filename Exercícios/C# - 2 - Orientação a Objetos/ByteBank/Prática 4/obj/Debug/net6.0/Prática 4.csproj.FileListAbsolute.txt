@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\bin\Debug\net6.0\Prática 4.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\bin\Debug\net6.0\Prática 4.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\bin\Debug\net6.0\Prática 4.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\bin\Debug\net6.0\Prática 4.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\bin\Debug\net6.0\Prática 4.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\obj\Debug\net6.0\Prática 4.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\obj\Debug\net6.0\Prática 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\obj\Debug\net6.0\Prática 4.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\obj\Debug\net6.0\Prática 4.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\obj\Debug\net6.0\Prática 4.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\obj\Debug\net6.0\Prática 4.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\obj\Debug\net6.0\refint\Prática 4.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\obj\Debug\net6.0\Prática 4.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\obj\Debug\net6.0\Prática 4.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 2 - Orientação a Objetos\ByteBank\Prática 4\obj\Debug\net6.0\ref\Prática 4.dll

@@ -1,19 +1,16 @@
 ﻿using ByteBank.Titular;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ByteBank.Contas
 {
     public class ContaCorrente
     {
+        public static int TotalDeContasCriadas { get; private set; }
+
         private int numAgencia;
         public int NumAgencia
         {
             get { return this.numAgencia; }
-            set
+            private set
             {
                 if (value > 0)
                 {
@@ -21,10 +18,12 @@ namespace ByteBank.Contas
                 }
             }
         }
-        
+
+        private string conta;        
         public string Conta { get; set; }
 
         private double saldo = 100;
+
 
         public Cliente Titular { get; set; }
 
@@ -76,5 +75,11 @@ namespace ByteBank.Contas
             return this.saldo;
         }
 
+        public ContaCorrente(int numAgencia, string conta)
+        {
+            this.NumAgencia = numAgencia;
+            this.Conta = conta;
+            TotalDeContasCriadas++;
+        }
     }
 }
