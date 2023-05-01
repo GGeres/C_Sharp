@@ -56,22 +56,26 @@ using ByteBank.Titular;
 //Console.WriteLine(contaPedro.conta);
 
 
-Cliente cliente = new Cliente();
-cliente.nome = "André Silva";
-cliente.cpf = "890.552.741-25";
-cliente.profissao = "Analista";
+//Cliente cliente = new Cliente();
+//cliente.nome = "André Silva";
+//cliente.cpf = "890.552.741-25";
+//cliente.profissao = "Analista";
 
-ContaCorrente conta = new ContaCorrente();
-conta.titular = cliente;
-conta.conta = "1010-X";
-conta.numAgencia = 15;
-conta.saldo = 100;
+//ContaCorrente conta = new ContaCorrente();
+//conta.titular = cliente;
+//conta.conta = "1010-X";
+//conta.numAgencia = 15;
+//conta.saldo = 100;
 
-Console.WriteLine("Titular = " + conta.titular.nome);
-Console.WriteLine("CPF = " + conta.titular.cpf);
-Console.WriteLine("Profissão = " + conta.titular.profissao);
-Console.WriteLine("Nº de conta = " + conta.conta);
-Console.WriteLine("Saldo = " + conta.saldo);
-Console.WriteLine("Nº da Agência = " + conta.numAgencia);
+//Console.WriteLine("Titular = " + conta.titular.nome);
+//Console.WriteLine("CPF = " + conta.titular.cpf);
+//Console.WriteLine("Profissão = " + conta.titular.profissao);
+//Console.WriteLine("Nº de conta = " + conta.conta);
+//Console.WriteLine("Saldo = " + conta.saldo);
+//Console.WriteLine("Nº da Agência = " + conta.numAgencia);
+
+ContaCorrente conta3 = new ContaCorrente();
+conta3.DefinirSaldo (10);
+Console.WriteLine(conta3.ObterSaldo());
 
 
