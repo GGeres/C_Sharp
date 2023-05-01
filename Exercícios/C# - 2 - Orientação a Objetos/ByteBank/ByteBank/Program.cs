@@ -75,7 +75,11 @@ using ByteBank.Titular;
 //Console.WriteLine("Nº da Agência = " + conta.numAgencia);
 
 ContaCorrente conta3 = new ContaCorrente();
-conta3.DefinirSaldo (10);
-Console.WriteLine(conta3.ObterSaldo());
+conta3.NumAgencia = 18;
+conta3.Conta = "1011-H";
+conta3.SetSaldo(200);
+Console.WriteLine(conta3.GetSaldo());
+Console.WriteLine(conta3.NumAgencia);
+Console.WriteLine(conta3.Conta);
 
 
