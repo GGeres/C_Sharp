@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\bin\Debug\net6.0\Pratica2 - Banco de Dados de Livros.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\bin\Debug\net6.0\Pratica2 - Banco de Dados de Livros.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\bin\Debug\net6.0\Pratica2 - Banco de Dados de Livros.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\bin\Debug\net6.0\Pratica2 - Banco de Dados de Livros.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\bin\Debug\net6.0\Pratica2 - Banco de Dados de Livros.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\obj\Debug\net6.0\Pratica2 - Banco de Dados de Livros.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\obj\Debug\net6.0\Pratica2 - Banco de Dados de Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\obj\Debug\net6.0\Pratica2 - Banco de Dados de Livros.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\obj\Debug\net6.0\Pratica2 - Banco de Dados de Livros.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\obj\Debug\net6.0\Pratica2 - Banco de Dados de Livros.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\obj\Debug\net6.0\Pratica2 - Banco de Dados de Livros.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\obj\Debug\net6.0\refint\Pratica2 - Banco de Dados de Livros.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\obj\Debug\net6.0\Pratica2 - Banco de Dados de Livros.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\obj\Debug\net6.0\Pratica2 - Banco de Dados de Livros.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 3 - Herança e Interfaces\Pratica2 - Banco de Dados de Livros\obj\Debug\net6.0\ref\Pratica2 - Banco de Dados de Livros.dll
