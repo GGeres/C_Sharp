@@ -2,7 +2,6 @@
 
 Console.WriteLine("Bem vindo!");
 
-MediaDaAmostra([1]);
 double MediaDaAmostra(double[] amostra)
 {
     double media = 0;
