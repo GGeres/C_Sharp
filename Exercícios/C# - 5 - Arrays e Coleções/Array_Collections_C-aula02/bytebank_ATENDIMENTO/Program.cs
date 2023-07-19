@@ -119,8 +119,8 @@ void TestaArrayDeContasCorrentes()
 List<ContaCorrente> _listaDeContas = new List<ContaCorrente>()
 {
     new ContaCorrente(95, "14526-X"){Saldo=100,Titular = new Cliente{Cpf="11111",Nome="Rick"} },
-    new ContaCorrente(95, "12576-X"){Saldo=300,Titular = new Cliente{Cpf="22222",Nome="Pedro"} },
-    new ContaCorrente(95, "45678-H"){Saldo=500,Titular = new Cliente{Cpf="33333",Nome="Maria"} }
+    new ContaCorrente(100, "12576-X"){Saldo=300,Titular = new Cliente{Cpf="22222",Nome="Pedro"} },
+    new ContaCorrente(94, "45678-H"){Saldo=500,Titular = new Cliente{Cpf="33333",Nome="Maria"} }
 };
 
 AtendimentoCliente();
@@ -191,7 +191,8 @@ void PesquisarContas()
     Console.WriteLine("======    PESQUISAR CONTAS    =====");
     Console.WriteLine("===================================");
     Console.WriteLine("\n");
-    Console.WriteLine("Deseja pesquisar por (1) NUMERO DA CONTA ou (2) CPF TITULAR ?");
+    Console.WriteLine("Deseja pesquisar por (1) NUMERO DA CONTA ou (2) CPF TITULAR ou "+
+        "(3) NUMERO DE AGENCIA ?" );
     switch (int.Parse(Console.ReadLine()))
     {
         case 1:
@@ -213,36 +214,56 @@ void PesquisarContas()
                 Console.ReadKey();
                 break;
             }
+        case 3:
+            {
+                Console.WriteLine("Informe o número da agência: ");
+                int _numeroAgencia = int.Parse(Console.ReadLine());
+                var contasPorAgencia = ConsultaPorAgencia(_numeroAgencia);
+                ExibirListaDeContas(contasPorAgencia);
+                Console.ReadKey();
+                break;
+            }
+        default:
+            Console.WriteLine("Opção não implementada.");
+            break;
     }
+}
+
+void ExibirListaDeContas(List<ContaCorrente> contasPorAgencia)
+{
+    if (contasPorAgencia == null)
+    {
+        Console.WriteLine("... A Consulta não retornou dados ...");
+    }
+    else
+    {
+        foreach (var item in contasPorAgencia)
+        {
+            Console.WriteLine(item.ToString());
+        }
+    }
+}
+
+List<ContaCorrente> ConsultaPorAgencia(int numeroAgencia)
+{
+    var consulta = (
+            from conta in _listaDeContas
+            where conta.Numero_agencia== numeroAgencia
+            select conta).ToList();
+    return consulta;
 }
 
 ContaCorrente ConsultaPorCPFTitular(string? cpf)
 {
-    ContaCorrente conta = null;
-    for (int i = 0;i < _listaDeContas.Count;i++)
-    {
-        if (_listaDeContas[i].Titular.Cpf.Equals(cpf))
-        {
-            conta = _listaDeContas[i];
-        }
-    }
-
-    return conta;
+    return _listaDeContas.Where(conta => conta.Titular.Cpf == cpf).FirstOrDefault();
 }
 
 ContaCorrente ConsultaPorNumeroConta(string? numeroConta)
 {
-    ContaCorrente conta = null;
-    for (int i = 0; i < _listaDeContas.Count; i++)
-    {
-        if (_listaDeContas[i].Conta.Equals(numeroConta))
-        {
-            conta = _listaDeContas[i];
-        }
-    }
-
-    return conta;
+    return _listaDeContas.Where(conta => conta.Conta == numeroConta).FirstOrDefault();
 }
+
+
 
 void OrdenarContas()
 {
@@ -296,12 +317,13 @@ void ListarContas()
     }
     foreach (ContaCorrente item in _listaDeContas)
     {
-        Console.WriteLine("===  Dados da Conta  ===");
-        Console.WriteLine("Número da Conta : " + item.Conta);
-        Console.WriteLine("Saldo da Conta : " + item.Saldo);
-        Console.WriteLine("Titular da Conta: " + item.Titular.Nome);
-        Console.WriteLine("CPF do Titular  : " + item.Titular.Cpf);
-        Console.WriteLine("Profissão do Titular: " + item.Titular.Profissao);
+        //Console.WriteLine("===  Dados da Conta  ===");
+        //Console.WriteLine("Número da Conta : " + item.Conta);
+        //Console.WriteLine("Saldo da Conta : " + item.Saldo);
+        //Console.WriteLine("Titular da Conta: " + item.Titular.Nome);
+        //Console.WriteLine("CPF do Titular  : " + item.Titular.Cpf);
+        //Console.WriteLine("Profissão do Titular: " + item.Titular.Profissao);
+        Console.WriteLine(item.ToString());
         Console.WriteLine(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
         Console.ReadKey();
     }
