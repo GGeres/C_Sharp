@@ -22,7 +22,6 @@
              }
 
         }
-        //public string Nome { get; set; }
         public string Profissao { get; set; }
 
         public static int TotalClientesCadastrados { get; set; }

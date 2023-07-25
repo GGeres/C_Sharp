@@ -48,6 +48,8 @@
         }
 
         private double saldo;
+        private int numeroAgencia;
+
         public double Saldo
         {
             get
@@ -130,6 +132,14 @@
             Titular = new Cliente();
             TotalDeContasCriadas += 1;
 
+        }
+
+        public ContaCorrente(int numeroAgencia)
+        {
+            Numero_agencia = numeroAgencia;
+            Conta = Guid.NewGuid().ToString().Substring(0, 8);
+            Titular = new Cliente();
+            TotalDeContasCriadas += 1;
         }
 
         public static int TotalDeContasCriadas { get; set; }
