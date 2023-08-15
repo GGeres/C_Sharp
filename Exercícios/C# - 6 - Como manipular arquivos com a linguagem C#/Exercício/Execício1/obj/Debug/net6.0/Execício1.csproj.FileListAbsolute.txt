@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\bin\Debug\net6.0\Execício1.exe
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\bin\Debug\net6.0\Execício1.deps.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\bin\Debug\net6.0\Execício1.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\bin\Debug\net6.0\Execício1.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\bin\Debug\net6.0\Execício1.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\obj\Debug\net6.0\Execício1.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\obj\Debug\net6.0\Execício1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\obj\Debug\net6.0\Execício1.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\obj\Debug\net6.0\Execício1.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\obj\Debug\net6.0\Execício1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\obj\Debug\net6.0\Execício1.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\obj\Debug\net6.0\refint\Execício1.dll
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\obj\Debug\net6.0\Execício1.pdb
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\obj\Debug\net6.0\Execício1.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\ESTUDOS\C_Sharp\Exercícios\C# - 6 - Como manipular arquivos com a linguagem C#\Exercício\Execício1\obj\Debug\net6.0\ref\Execício1.dll
