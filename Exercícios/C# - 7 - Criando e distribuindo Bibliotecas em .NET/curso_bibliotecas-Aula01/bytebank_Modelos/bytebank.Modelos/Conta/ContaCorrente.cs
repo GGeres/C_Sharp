@@ -1,4 +1,6 @@
 ﻿namespace bytebank.Modelos.Conta
+
+
 {
     public class ContaCorrente:IComparable<ContaCorrente>
     {     
@@ -155,6 +157,9 @@
                    $"Profissão do Titular: { this.Titular.Profissao}\n\n";
                    
 
+        }
+        public ContaCorrente()
+        {
         }
 
 
